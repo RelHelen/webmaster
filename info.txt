@@ -1,0 +1,2 @@
+// скрипт для работы с иконками
+  <script src="https://kit.fontawesome.com/28ced0cf82.js" crossorigin="anonymous"></script>
